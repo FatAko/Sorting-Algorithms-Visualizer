@@ -1,0 +1,13 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#373b3a",
+        "statusBar.foreground": "#fff",
+        "activityBar.background": "#373b3a",
+        "activityBar.foreground": "#fff"
+    },
+    "now.instance.user.name": "",
+    "now.instance.host.url": "",
+    "now.instance.OAuth.client.id": "",
+    "now.instance.user.password": "",
+    "now.instance.OAuth.client.secret": ""
+}
